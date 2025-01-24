@@ -7,3 +7,5 @@ A modern and responsive user interface design for a clothing brand's shopping we
 Digital Marketing Email Marketing UI:
 
 "An intuitive and user-friendly Email Marketing UI designed to empower digital marketers to create, manage, and analyze email campaigns effortlessly. This platform includes features such as drag-and-drop email builders, customizable templates, audience segmentation, and real-time analytics. It ensures a seamless workflow, from designing professional emails to tracking performance metrics like open rates, click-through rates, and conversions. Perfectly optimized for both beginners and advanced marketers, the UI streamlines campaign management and maximizes email marketing ROI.
+
+Using Figma
